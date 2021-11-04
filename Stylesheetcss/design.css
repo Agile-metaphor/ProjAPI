@@ -1,7 +1,8 @@
 section .Container
 {
   position: relative;
-  text-align: left;
+  text-align: center;
+  float: left;
   bottom: 280px;
   right: 200px;
   font-size: 15px;
