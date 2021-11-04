@@ -14,9 +14,12 @@
     align-items: center;
   }
    section .Container {
-        width: 20000px;
+        width: 2000px;
         margin: 0 100px;
         display: flex;
+        text-align: center;
+        bottom: 280 px;
+        right: 200 px;
         justify-content: center;
         align-items: center;
         flex-direction: column-reverse;
