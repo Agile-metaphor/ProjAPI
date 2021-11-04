@@ -13,10 +13,22 @@
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
+=======
+  }
+   section .Container {
+        width: 20000px;
+        margin: 0 100px;
+        display: flex;
+        justify-content: center;
+        align-items: left;
+        flex-direction: column-reverse;
+        font-family: Arial, Helvetica, sans-serif
+>>>>>>> 4f6564fdbb946cd30f18560b1b2c1168375017cc
 }
 =======
 .intro {
-    font-family: Arial, Helvetica, sans-serif;
+    ;
     display: flex;
 }
 >>>>>>> dc13574588bb7b5ac20751576da8d2dc88e31b57
