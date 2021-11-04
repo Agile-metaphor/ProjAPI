@@ -8,3 +8,20 @@ section .Container
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
+section .signin
+{
+    position: relative;
+    bottom: 240px;
+    text-align: center;
+    right: 200px;
+    outline: #cbce10;
+}
+section .password
+{
+    position: relative;
+    text-align: center;
+    top: 50px;
+    right: 10px;
+}
+section
+{
