@@ -13,14 +13,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-   section .Container {
-        width: 20000px;
-        margin: 0 100px;
-        display: flex;
-        justify-content: center;
-        align-items: left;
-        flex-direction: column-reverse;
 }
 =======
 .intro {
