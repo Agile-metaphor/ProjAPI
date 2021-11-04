@@ -18,7 +18,7 @@
         margin: 0 100px;
         display: flex;
         justify-content: center;
-        align-items: left;
+        align-items: center;
         flex-direction: column-reverse;
         font-family: Arial, Helvetica, sans-serif
 }
