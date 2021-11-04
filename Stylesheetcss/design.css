@@ -11,4 +11,5 @@ section .Container
 
 .image {
     width: 200px;
+    height: fit-content;
 }
