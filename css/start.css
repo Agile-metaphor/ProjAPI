@@ -1,0 +1,11 @@
+body {
+    background-image: url('assets/bg1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: cover;
+}
+
+#logo{
+    height: 300px;
+    padding: 150px 400px;
+}
