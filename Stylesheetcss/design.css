@@ -8,6 +8,7 @@ section .Container
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
+<<<<<<< HEAD
 section .signin
 {
     position: relative;
@@ -25,3 +26,11 @@ section .password
 }
 section
 {
+=======
+
+.image {
+    width: 200px;
+    height: fit-content;
+    background-color: peachpuff;
+}
+>>>>>>> c80a32dfe47a7b699d4785d33c2cb52f70a48509
