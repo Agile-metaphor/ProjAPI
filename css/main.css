@@ -1,5 +1,3 @@
-
-
 .sidenav {
     height: 100%; 
     width: 288px; 
@@ -13,6 +11,7 @@
     border-width: 0.4px;
     border-right: #A3ABB7;
     border-style:solid;
+    align-items: center;
   }
   
 
