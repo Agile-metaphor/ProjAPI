@@ -23,4 +23,8 @@ section .password
     top: 50px;
     right: 10px;
 }
-section .
+section .logo
+{
+  justify-content: center;
+}
+
