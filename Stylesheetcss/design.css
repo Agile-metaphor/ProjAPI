@@ -26,5 +26,6 @@ section .password
 section .logo
 {
   justify-content: center;
+  top: 200px;
 }
 
