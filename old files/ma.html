@@ -1,48 +1,36 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Star Wars-The Clone Wars</title>
-    <link rel='stylesheet' type='text/css' media='screen' href='Stylesheetcss/design.css'>
-    <script src='./javascript.js'></script>
+    <title>Sign In</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='/css/login.css'>
+    <script defer src="./js/login.js"></script>    
 </head>
-<body>
-    <div class="image">
-        <img src="starwars.png" alt="rocket pic">
-    </div>
-  <section>    
-    <div class="Container">
-        <h1>Sign in to continue.</h1>
-        <h1>your account</h1>
-    </div>
-      <div class="signin">
-        <form action="">
-            <label for="email">Email</label>
-            <input type="text" id="email" Email="email">
-            <div class="password">
-            <label for="Password">Password</label>
-            <input type="text" id="Password" Password="Password">
-            </div>
-        </form>
-        <div class="signinB">
 
+
+<body style="background-color: white;">
+    
+
+    <main id="main-holder">
+        <h1 id="login-header">Sign In</h1>
+        
+        <div id="login-error-msg-holder">
+          <p id="login-error-msg">Invalid username <span id="error-msg-second-line">and/or password</span></p>
+        </div>
+        
+        <form id="login-form">
+          <input type="text" name="username" id="username-field" class="login-form-field" placeholder="Username">
+          <input type="password" name="password" id="password-field" class="login-form-field" placeholder="Password">
+          <input type="submit" value="Login" id="login-form-submit">
         </form>
-        <div class="signinB">
-            
-            <p>Sign in</p>
-            </div>
-         </div>
-        <div class="logo">
-        <img src="flags.png" alt="flags">
-      </div>
-      </section>
       
-<style>
-        body {
-          background-image:url(503681.jpg);
-        }
-        </style>
+      </main>
+
+
+
+
 </body>
 </html>
