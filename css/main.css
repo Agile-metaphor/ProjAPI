@@ -11,12 +11,12 @@
     border-width: 0.4px;
     border-right: #A3ABB7;
     border-style:solid;
-    align-items: center;
+    align-content: center;
   }
   
 
   .sidenav a {
-    padding: 6px 8px 6px 16px;
+    padding: 6px 8px 6px 50px;
     text-decoration: none;
     font-size: 25px;
     color: #A3ABB7;
