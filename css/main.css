@@ -33,12 +33,6 @@
     margin-left: 288px; 
     padding: 0px 10px;
   }
-  
-
-  @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-  }
 
 .topbar1{
     height: 70px;
@@ -63,3 +57,55 @@
     border-style:solid;
     position: fixed;
   }
+
+
+.films{
+
+width: 160px;
+height: 160px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 46px #0000000F;
+opacity: 1;
+margin-left: 305px;
+margin-top: 194px;
+}
+.starship
+{
+width: 160px;
+height: 160px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 46px #0000000F;
+opacity: 1;
+margin-left: 500px;
+margin-top: -160px;
+}
+.people
+{
+  width: 160px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 46px #0000000F;
+  opacity: 1;
+  margin-left: 700px;
+  margin-top: -160px;
+}
+.vechicle
+{
+  width: 160px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 46px #0000000F;
+  opacity: 1;
+  margin-left: 900px;
+  margin-top: -160px;
+}
+.species
+{
+  width: 160px;
+  height: 160px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 46px #0000000F;
+  opacity: 1;
+  margin-left: 1100px;
+  margin-top: -160px; 
+}
